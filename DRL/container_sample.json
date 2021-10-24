@@ -1,0 +1,27 @@
+{
+    "containers": [
+        {
+            "step": 0,
+            "id": "X",
+            "name": "X",
+            "plugins": [],
+            "dx": 10,
+            "dy": 10,
+            "dz": 10,
+            "loadDx": 10,
+            "loadDy": 10,
+            "loadDz": 10,
+            "stack": {
+                "step": 1,
+                "id": null,
+                "name": null,
+                "plugins": [],
+                "placements": [
+
+                    
+                ]
+            },
+            "type": "container"
+        }
+    ]
+}
